@@ -8,11 +8,11 @@
             "categoria_id": 1
         },
         {
-            "id": 1,
+            "id": 2,
             "nome": "Nome do item",
             "descricao": "Descrição do item",
-            "preco": 49.90,
-            "categoria_id": 1
+            "preco": 79.90,
+            "categoria_id": 2
         }
     ]
 }
