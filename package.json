@@ -1,0 +1,22 @@
+{
+  "name": "individual-3_estao-servidos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Opseua/Individual-3_Estao-Servidos.git"
+  },
+  "keywords": [
+    "server-json"
+  ],
+  "author": "Orlando opseua@gmal.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Opseua/Individual-3_Estao-Servidos/issues"
+  },
+  "homepage": "https://github.com/Opseua/Individual-3_Estao-Servidos#readme",
+  "description": ""
+}
