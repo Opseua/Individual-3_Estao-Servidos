@@ -1,23 +1,14 @@
-
 {
-  "name": "individual-3_estao-servidos",
+  "name": "json-server",
   "version": "1.0.0",
-  "main": "js\server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "description": "Modulo 03 - Estão Servidos?",
+  "main": "server.js",
+  "scripts": { // <===
+    "start": "node server.js" // <===
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Opseua/Individual-3_Estao-Servidos.git"
-  },
-  "keywords": [
-    "server-json"
-  ],
-  "author": "Orlando opseua@gmal.com",
-  "license": "UNLICENSED",
-  "bugs": {
-    "url": "https://github.com/Opseua/Individual-3_Estao-Servidos/issues"
-  },
-  "homepage": "https://github.com/Opseua/Individual-3_Estao-Servidos#readme",
-  "description": ""
+  "author": "Youssef Zidan",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
 }
