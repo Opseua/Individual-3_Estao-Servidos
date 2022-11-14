@@ -1,7 +1,7 @@
 {
-  "name": "json-server",
+  "name": "fake-server",
   "version": "1.0.0",
-  "description": "Modulo 03 - Estão Servidos?",
+  "description": "fake server with fake database",
   "main": "server.js",
   "scripts": { // <===
     "start": "node server.js" // <===
