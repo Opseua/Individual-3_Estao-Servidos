@@ -1,5 +1,9 @@
-const jsonServer = require('json-server')
-const cors = require('cors')
+const node = 'D:\\ARQUIVOS\\WINDOWS\\PORTABLE_NodeJS\\node-v19.0.1-win-x64\\node_modules\\';
+
+
+
+const jsonServer = require(node +  'json-server')
+const cors = require(node +  'cors')
 const path = require('path')
 
 const server = jsonServer.create()
