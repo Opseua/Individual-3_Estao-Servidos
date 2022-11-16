@@ -1,0 +1,17 @@
+######### VS CODE #########
+
+Instalar o modulo do NodeJS 'json-server' na pasta principal
+Criar arquivo '.gitignore' na pasta principal
+Adicionar 'node_modules' dentro do arquivo '.gitignore' (para ignorar os modulos do NodeJS)
+
+
+
+######### RENDER #########
+
+Botão 'New' > 'Web Service' > escolher o repositório do GitHub
+
+Root Directory: json_server (se for a pasta principal, deixar em branco)
+Environment: Node
+Branch: main
+Build Command: yarn
+Start Command: node server.js
