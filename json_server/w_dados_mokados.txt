@@ -38,224 +38,224 @@ paradas (1 parada, 2 paradas / 3 paradas), consumo (200 litros / 500 litros / 70
 {
 
   
-  "rotas": ["motoristas","veiculos","clientes","trajetos","cronogramas"],
-
-
-  "motoristas": [
-
-    {"atributos":["nome","CPF","admissao","idade","salario","id"]},
-
-    {
-      "nome": "Rafael da Silva",
-      "CPF": "111.111.111-11",
-      "admissao": "01/01/2011",
-      "idade": 39,
-      "salario": 2500.99,
-      "id": 1
-    },
-    {
-      "nome": "Márcia Lima",
-      "CPF": "222.2222.222-22",
-      "admissao": "02/02/2012",
-      "idade": 35,
-      "salario": 3950.99,
-      "id": 2
-    },
-    {
-      "nome": "Rodolfo Júnior",
-      "CPF": "333.333.333-33",
-      "admissao": "03/03/2013",
-      "idade": 32,
-      "salario": 1700.99,
-      "id": 3
-    },
-    {
-      "nome": "Júnior Santos",
-      "CPF": "444.444.444-44",
-      "admissao": "04/04/2014",
-      "idade": 38,
-      "salario": 3950.99,
-      "id": 4
-    },
-    {
-      "nome": "Fernanda Alves",
-      "CPF": "555.555.555-55",
-      "admissao": "05/05/2015",
-      "idade": 29,
-      "salario": 2500.99,
-      "id": 5
-    }
-  ],
-
-
-  "veiculos": [
-
-    {"atributos":["tipo","marca","placa","combustivel","velocidade","id"]},
-
-    {
-      "tipo": "caminhão",
-      "marca": "Mercedes",
-      "placa": "HUN-8491",
-      "combustivel": "Etanol",
-      "velocidade": 60,
-      "id": 1
-    },
-    {
-      "tipo": "van",
-      "marca": "Ford",
-      "placa": "JYK-8413",
-      "combustivel": "Álcool",
-      "velocidade": 80,
-      "id": 2
-    },
-    {
-      "tipo": "caminhão",
-      "marca": "Mercedes",
-      "placa": "NCX-2441",
-      "combustivel": "Etanol",
-      "velocidade": 60,
-      "id": 3
-    },
-    {
-      "tipo": "van",
-      "marca": "Ford",
-      "placa": "LPF-7126",
-      "combustivel": "Álcool",
-      "velocidade": 80,
-      "id": 4
-    },
-    {
-      "tipo": "moto",
-      "marca": "Honda",
-      "placa": "JPW-5212",
-      "combustivel": "Gasolina",
-      "velocidade": 100,
-      "id": 5
-    }
-  ],
-
-
-  "clientes": [
-
-    {"atributos":["nome","itens","seguro","entrega","telefone","id"]},
-
-    {
-      "nome": "Mercado Livre",
-      "itens": "celulares",
-      "seguro": "SIM",
-      "entrega": "expressa",
-      "telefone": "21 1111-1111",
-      "id": 1
-    },
-    {
-      "nome": "Lojas Americanas",
-      "itens": "computadores",
-      "seguro": "SIM",
-      "entrega": "normal",
-      "telefone": "21 2222-2222",
-      "id": 2
-    },
-    {
-      "nome": "Casas Bahia",
-      "itens": "impressoras",
-      "seguro": "NÃO",
-      "entrega": "expressa",
-      "telefone": "21 3333-3333",
-      "id": 3
-    },
-    {
-      "nome": "Magazine Luiza",
-      "itens": "celulares",
-      "seguro": "NÃO",
-      "entrega": "normal",
-      "telefone": "21 4444-4444",
-      "id": 4
-    },
-    {
-      "nome": "Amazon",
-      "itens": "computadores",
-      "seguro": "SIM",
-      "entrega": "expressa",
-      "telefone": "21 5555-5555",
-      "id": 5
-    }
-  ],
-
-
-  "trajetos": [
-
-    {"atributos":["percurso","origem","destino","pedagio","duracao","id"]},
-
-    {
-      "percurso": "RJ<>SP",
-      "origem": "Armazém Zona Portuária - RJ",
-      "destino": "Armazém Congonhas - SP",
-      "pedagio": "SIM",
-      "duracao": "4 dias",
-      "id": 1
-    },
-    {
-      "percurso": "SP<>MG",
-      "origem": "Armazém Congonhas - SP",
-      "destino": "Armazém Contagem - MG",
-      "pedagio": "SIM",
-      "duracao": "4 dias",
-      "id": 2
-    },
-    {
-      "percurso": "MG<>ES",
-      "origem": "Armazém Contagem - MG",
-      "destino": "Armazém Log Express - ES",
-      "pedagio": "SIM",
-      "duracao": "3 dias",
-      "id": 3
-    },
-    {
-      "percurso": "ES<>RJ",
-      "origem": "Armazém Log Express - ES",
-      "destino": "Armazém Zona Portuária - RJ",
-      "pedagio": "NÃO",
-      "duracao": "1 dia",
-      "id": 4
-    }
-  ],
-
-
-  "cronogramas": [
-
-    {"atributos":["paradas","consumo","postos","estacionamentos","alimentacao","id"]},
-
-    {
-      "paradas": 2,
-      "consumo": "200 litros",
-      "postos": 20,
-      "estacionamentos": 4,
-      "alimentacao": 100.00,
-      "id": 1
-    },
-    {
-      "paradas": 3,
-      "consumo": "300 litros",
-      "postos": 15,
-      "estacionamentos": 6,
-      "alimentacao": 250.00,
-      "id": 2
-    },
-    {
-      "paradas": 7,
-      "consumo": "500 litros",
-      "postos": 40,
-      "estacionamentos": 8,
-      "alimentacao": 400.00,
-      "id": 3
-    },
-    {
-      "paradas": 4,
-      "consumo": "150 litros",
-      "postos": 7,
-      "estacionamentos": 3,
-      "alimentacao": 150.00,
-      "id": 4
-    }
-  ]
-}
+    "rotas": ["motoristas","veiculos","clientes","trajetos","cronogramas"],
+  
+  
+    "motoristas": [
+  
+      {"atributos":["nome","CPF","admissao","idade","imagem","id"]},
+  
+      {
+        "nome": "Rafael da Silva",
+        "CPF": "111.111.111-11",
+        "admissao": "01/01/2011",
+        "idade": 39,
+        "imagem": "https://raw.githubusercontent.com/Opseua/M3-IND_Estao-Servidos/main/img/profile_1.png",
+        "id": 1
+      },
+      {
+        "nome": "Márcia Lima",
+        "CPF": "222.2222.222-22",
+        "admissao": "02/02/2012",
+        "idade": 35,
+        "imagem": "https://raw.githubusercontent.com/Opseua/M3-IND_Estao-Servidos/main/img/profile_2.png",
+        "id": 2
+      },
+      {
+        "nome": "Rodolfo Júnior",
+        "CPF": "333.333.333-33",
+        "admissao": "03/03/2013",
+        "idade": 32,
+        "imagem": "https://raw.githubusercontent.com/Opseua/M3-IND_Estao-Servidos/main/img/profile_3.png",
+        "id": 3
+      },
+      {
+        "nome": "Júnior Santos",
+        "CPF": "444.444.444-44",
+        "admissao": "04/04/2014",
+        "idade": 38,
+        "imagem": "https://raw.githubusercontent.com/Opseua/M3-IND_Estao-Servidos/main/img/profile_4.png",
+        "id": 4
+      },
+      {
+        "nome": "Fernanda Alves",
+        "CPF": "555.555.555-55",
+        "admissao": "05/05/2015",
+        "idade": 29,
+        "imagem": "https://raw.githubusercontent.com/Opseua/M3-IND_Estao-Servidos/main/img/profile_5.png",
+        "id": 5
+      }
+    ],
+  
+  
+    "veiculos": [
+  
+      {"atributos":["tipo","marca","placa","combustivel","velocidade","id"]},
+  
+      {
+        "tipo": "caminhão",
+        "marca": "Mercedes",
+        "placa": "HUN-8491",
+        "combustivel": "Etanol",
+        "velocidade": 60,
+        "id": 1
+      },
+      {
+        "tipo": "van",
+        "marca": "Ford",
+        "placa": "JYK-8413",
+        "combustivel": "Álcool",
+        "velocidade": 80,
+        "id": 2
+      },
+      {
+        "tipo": "caminhão",
+        "marca": "Mercedes",
+        "placa": "NCX-2441",
+        "combustivel": "Etanol",
+        "velocidade": 60,
+        "id": 3
+      },
+      {
+        "tipo": "van",
+        "marca": "Ford",
+        "placa": "LPF-7126",
+        "combustivel": "Álcool",
+        "velocidade": 80,
+        "id": 4
+      },
+      {
+        "tipo": "moto",
+        "marca": "Honda",
+        "placa": "JPW-5212",
+        "combustivel": "Gasolina",
+        "velocidade": 100,
+        "id": 5
+      }
+    ],
+  
+  
+    "clientes": [
+  
+      {"atributos":["nome","itens","seguro","entrega","telefone","id"]},
+  
+      {
+        "nome": "Mercado Livre",
+        "itens": "celulares",
+        "seguro": "SIM",
+        "entrega": "expressa",
+        "telefone": "21 1111-1111",
+        "id": 1
+      },
+      {
+        "nome": "Lojas Americanas",
+        "itens": "computadores",
+        "seguro": "SIM",
+        "entrega": "normal",
+        "telefone": "21 2222-2222",
+        "id": 2
+      },
+      {
+        "nome": "Casas Bahia",
+        "itens": "impressoras",
+        "seguro": "NÃO",
+        "entrega": "expressa",
+        "telefone": "21 3333-3333",
+        "id": 3
+      },
+      {
+        "nome": "Magazine Luiza",
+        "itens": "celulares",
+        "seguro": "NÃO",
+        "entrega": "normal",
+        "telefone": "21 4444-4444",
+        "id": 4
+      },
+      {
+        "nome": "Amazon",
+        "itens": "computadores",
+        "seguro": "SIM",
+        "entrega": "expressa",
+        "telefone": "21 5555-5555",
+        "id": 5
+      }
+    ],
+  
+  
+    "trajetos": [
+  
+      {"atributos":["percurso","origem","destino","pedagio","duracao","id"]},
+  
+      {
+        "percurso": "RJ<>SP",
+        "origem": "Armazém Zona Portuária - RJ",
+        "destino": "Armazém Congonhas - SP",
+        "pedagio": "SIM",
+        "duracao": "4 dias",
+        "id": 1
+      },
+      {
+        "percurso": "SP<>MG",
+        "origem": "Armazém Congonhas - SP",
+        "destino": "Armazém Contagem - MG",
+        "pedagio": "SIM",
+        "duracao": "4 dias",
+        "id": 2
+      },
+      {
+        "percurso": "MG<>ES",
+        "origem": "Armazém Contagem - MG",
+        "destino": "Armazém Log Express - ES",
+        "pedagio": "SIM",
+        "duracao": "3 dias",
+        "id": 3
+      },
+      {
+        "percurso": "ES<>RJ",
+        "origem": "Armazém Log Express - ES",
+        "destino": "Armazém Zona Portuária - RJ",
+        "pedagio": "NÃO",
+        "duracao": "1 dia",
+        "id": 4
+      }
+    ],
+  
+  
+    "cronogramas": [
+  
+      {"atributos":["paradas","consumo","postos","estacionamentos","alimentacao","id"]},
+  
+      {
+        "paradas": 2,
+        "consumo": "200 litros",
+        "postos": 20,
+        "estacionamentos": 4,
+        "alimentacao": 100.00,
+        "id": 1
+      },
+      {
+        "paradas": 3,
+        "consumo": "300 litros",
+        "postos": 15,
+        "estacionamentos": 6,
+        "alimentacao": 250.00,
+        "id": 2
+      },
+      {
+        "paradas": 7,
+        "consumo": "500 litros",
+        "postos": 40,
+        "estacionamentos": 8,
+        "alimentacao": 400.00,
+        "id": 3
+      },
+      {
+        "paradas": 4,
+        "consumo": "150 litros",
+        "postos": 7,
+        "estacionamentos": 3,
+        "alimentacao": 150.00,
+        "id": 4
+      }
+    ]
+  }
