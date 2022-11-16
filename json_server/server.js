@@ -7,4 +7,5 @@ const port = process.env.PORT || 8080;
 
 server.use(middlewares);
 server.use(router);
-server.listen(port, ()=> {console.log(`JSON Server está rodando na porta ${port}`)})
+server.listen(port, () => { console.log(`JSON Server está rodando na porta ${port}`) })
+console.log('TESTE')
