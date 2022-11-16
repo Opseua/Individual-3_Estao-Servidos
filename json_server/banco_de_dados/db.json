@@ -6,14 +6,14 @@
   
     "motoristas": [
   
-      {"atributos":["nome","CPF","admissao","idade","salario","id"]},
+      {"atributos":["nome","CPF","admissao","idade","imagem","id"]},
   
       {
         "nome": "Rafael da Silva",
         "CPF": "111.111.111-11",
         "admissao": "01/01/2011",
         "idade": 39,
-        "salario": 2500.99,
+        "imagem": "https://raw.githubusercontent.com/Opseua/M3-IND_Estao-Servidos/main/img/profile_1.png",
         "id": 1
       },
       {
@@ -21,7 +21,7 @@
         "CPF": "222.2222.222-22",
         "admissao": "02/02/2012",
         "idade": 35,
-        "salario": 3950.99,
+        "imagem": "https://raw.githubusercontent.com/Opseua/M3-IND_Estao-Servidos/main/img/profile_2.png",
         "id": 2
       },
       {
@@ -29,7 +29,7 @@
         "CPF": "333.333.333-33",
         "admissao": "03/03/2013",
         "idade": 32,
-        "salario": 1700.99,
+        "imagem": "https://raw.githubusercontent.com/Opseua/M3-IND_Estao-Servidos/main/img/profile_3.png",
         "id": 3
       },
       {
@@ -37,7 +37,7 @@
         "CPF": "444.444.444-44",
         "admissao": "04/04/2014",
         "idade": 38,
-        "salario": 3950.99,
+        "imagem": "https://raw.githubusercontent.com/Opseua/M3-IND_Estao-Servidos/main/img/profile_4.png",
         "id": 4
       },
       {
@@ -45,7 +45,7 @@
         "CPF": "555.555.555-55",
         "admissao": "05/05/2015",
         "idade": 29,
-        "salario": 2500.99,
+        "imagem": "https://raw.githubusercontent.com/Opseua/M3-IND_Estao-Servidos/main/img/profile_5.png",
         "id": 5
       }
     ],
