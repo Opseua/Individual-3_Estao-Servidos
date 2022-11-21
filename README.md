@@ -1,42 +1,42 @@
-<h1>Projeto Individual Módulo 2: <strong>Estão Servidos?</strong></h1>
+<h1>Projeto Individual Módulo 3: <strong>Estão Servidos?</strong></h1>
 
 Trabalho em parceria com a Resilia e SENAC
 
 Esse é o meu 4º projeto criado, e o 3º feito de forma individual
 
-Link: https://m3-ind-estao-servidos.onrender.com/
+Link: https://m3-ind-estao-servidos.onrender.com/<br><br>
 
-✅✅✅ *Rotas padronizadas* ✅✅✅
-"motoristas"  ➡️ https://m3-ind-estao-servidos.onrender.com/motoristas
-"veiculos"    ➡️ https://m3-ind-estao-servidos.onrender.com/veiculos
-"clientes"    ➡️ https://m3-ind-estao-servidos.onrender.com/clientes
-"trajetos"    ➡️ https://m3-ind-estao-servidos.onrender.com/trajetos
-"cronogramas" ➡️ https://m3-ind-estao-servidos.onrender.com/cronogramas
+✅✅✅ *Rotas padronizadas* ✅✅✅<br><br>
+"motoristas"  ➡️ https://m3-ind-estao-servidos.onrender.com/motoristas<br>
+"veiculos"    ➡️ https://m3-ind-estao-servidos.onrender.com/veiculos<br>
+"clientes"    ➡️ https://m3-ind-estao-servidos.onrender.com/clientes<br>
+"trajetos"    ➡️ https://m3-ind-estao-servidos.onrender.com/trajetos<br>
+"cronogramas" ➡️ https://m3-ind-estao-servidos.onrender.com/cronogramas<br><br>
 
-🔰🔰🔰 *Rotas personalizadas* 🔰🔰🔰
-"/todos_os_motoristas"    ➡️ https://m3-ind-estao-servidos.onrender.com/motoristas
-"/adicionar_motorista"    ➡️ https://m3-ind-estao-servidos.onrender.com/motoristas
-"/editar_motorista/:id"	  ➡️ https://m3-ind-estao-servidos.onrender.com/motoristas/:id
-"/deletar_motorista/:id"  ➡️ https://m3-ind-estao-servidos.onrender.com/motoristas/:id
-"/todos_os_veiculos"      ➡️ https://m3-ind-estao-servidos.onrender.com/veiculos
-"/adicionar_veiculo"      ➡️ https://m3-ind-estao-servidos.onrender.com/veiculos
-"/editar_veiculo/:id"	    ➡️ https://m3-ind-estao-servidos.onrender.com/veiculos/:id
-"/deletar_veiculo/:id"    ➡️ https://m3-ind-estao-servidos.onrender.com/veiculos/:id
-"/todos_os_clientes"      ➡️ https://m3-ind-estao-servidos.onrender.com/clientes
-"/adicionar_cliente"      ➡️ https://m3-ind-estao-servidos.onrender.com/clientes
-"/editar_cliente/:id"     ➡️ https://m3-ind-estao-servidos.onrender.com/clientes/:id
-"/deletar_cliente/:id"    ➡️ https://m3-ind-estao-servidos.onrender.com/clientes/:id
-"/todos_os_trajetos"      ➡️ https://m3-ind-estao-servidos.onrender.com/trajetos
-"/adicionar_trajeto"      ➡️ https://m3-ind-estao-servidos.onrender.com/trajetos
-"/editar_trajeto/:id"     ➡️ https://m3-ind-estao-servidos.onrender.com/trajetos/:id
-"/deletar_trajeto/:id"    ➡️ https://m3-ind-estao-servidos.onrender.com/trajetos/:id
-"/todos_os_cronogramas"   ➡️ https://m3-ind-estao-servidos.onrender.com/cronogramas
-"/adicionar_cronograma"   ➡️ https://m3-ind-estao-servidos.onrender.com/cronogramas
-"/editar_cronograma/:id"  ➡️ https://m3-ind-estao-servidos.onrender.com/cronogramas/:id
-"/deletar_cronograma/:id" ➡️ https://m3-ind-estao-servidos.onrender.com/cronogramas/:id
+🔰🔰🔰 *Rotas personalizadas* 🔰🔰🔰<br><br>
+"/todos_os_motoristas"    ➡️ https://m3-ind-estao-servidos.onrender.com/motoristas<br>
+"/adicionar_motorista"    ➡️ https://m3-ind-estao-servidos.onrender.com/motoristas<br>
+"/editar_motorista/:id"	  ➡️ https://m3-ind-estao-servidos.onrender.com/motoristas/:id<br>
+"/deletar_motorista/:id"  ➡️ https://m3-ind-estao-servidos.onrender.com/motoristas/:id<br>
+"/todos_os_veiculos"      ➡️ https://m3-ind-estao-servidos.onrender.com/veiculos<br>
+"/adicionar_veiculo"      ➡️ https://m3-ind-estao-servidos.onrender.com/veiculos<br>
+"/editar_veiculo/:id"	    ➡️ https://m3-ind-estao-servidos.onrender.com/veiculos/:id<br>
+"/deletar_veiculo/:id"    ➡️ https://m3-ind-estao-servidos.onrender.com/veiculos/:id<br>
+"/todos_os_clientes"      ➡️ https://m3-ind-estao-servidos.onrender.com/clientes<br>
+"/adicionar_cliente"      ➡️ https://m3-ind-estao-servidos.onrender.com/clientes<br>
+"/editar_cliente/:id"     ➡️ https://m3-ind-estao-servidos.onrender.com/clientes/:id<br>
+"/deletar_cliente/:id"    ➡️ https://m3-ind-estao-servidos.onrender.com/clientes/:id<br>
+"/todos_os_trajetos"      ➡️ https://m3-ind-estao-servidos.onrender.com/trajetos<br>
+"/adicionar_trajeto"      ➡️ https://m3-ind-estao-servidos.onrender.com/trajetos<br>
+"/editar_trajeto/:id"     ➡️ https://m3-ind-estao-servidos.onrender.com/trajetos/:id<br>
+"/deletar_trajeto/:id"    ➡️ https://m3-ind-estao-servidos.onrender.com/trajetos/:id<br>
+"/todos_os_cronogramas"   ➡️ https://m3-ind-estao-servidos.onrender.com/cronogramas<br>
+"/adicionar_cronograma"   ➡️ https://m3-ind-estao-servidos.onrender.com/cronogramas<br>
+"/editar_cronograma/:id"  ➡️ https://m3-ind-estao-servidos.onrender.com/cronogramas/:id<br>
+"/deletar_cronograma/:id" ➡️ https://m3-ind-estao-servidos.onrender.com/cronogramas/:id<br><br><br>
 
 
-✅ Instruções de uso ✅
+✅ Instruções de uso ✅<br><br>
 
 🟡Solicitação "GET" obtém a informação<br>
 🟡Solicitação "POST" adiciona/envia uma nova informação<br>
