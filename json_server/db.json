@@ -15,6 +15,12 @@
                 "idade",
                 "imagem",
                 "id"
+            ],
+            "rotas_personalizadas": [
+                "todos_os_motoristas",
+                "adicionar_motorista",
+                "editar_motorista",
+                "deletar_motorista"
             ]
         },
         {
@@ -67,6 +73,12 @@
                 "combustivel",
                 "velocidade",
                 "id"
+            ],
+            "rotas_personalizadas": [
+                "todos_os_veiculos",
+                "adicionar_veiculo",
+                "editar_veiculo",
+                "deletar_veiculo"
             ]
         },
         {
@@ -119,6 +131,12 @@
                 "entrega",
                 "telefone",
                 "id"
+            ],
+            "rotas_personalizadas": [
+                "todos_os_clientes",
+                "adicionar_cliente",
+                "editar_cliente",
+                "deletar_cliente"
             ]
         },
         {
@@ -171,6 +189,12 @@
                 "pedagio",
                 "duracao",
                 "id"
+            ],
+            "rotas_personalizadas": [
+                "todos_os_trajetos",
+                "adicionar_trajeto",
+                "editar_trajeto",
+                "deletar_trajeto"
             ]
         },
         {
@@ -215,6 +239,12 @@
                 "estacionamentos",
                 "alimentacao",
                 "id"
+            ],
+            "rotas_personalizadas": [
+                "todos_os_cronogramas",
+                "adicionar_cronograma",
+                "editar_cronograma",
+                "deletar_cronograma"
             ]
         },
         {
